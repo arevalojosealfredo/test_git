@@ -1,3 +1,5 @@
 Buenos días. Mi nombre es Jose Arevalo. Soy estudiante de la asignatura Construcción del Software
 
 información para el commit 2
+
+Información para el commit 3
