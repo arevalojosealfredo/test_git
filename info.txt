@@ -7,3 +7,5 @@ Información para el commit 3
 Información para el commit 4
 
 Información para el commit 5
+
+Información para el commit 6
