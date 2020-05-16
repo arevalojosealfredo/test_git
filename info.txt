@@ -9,3 +9,5 @@ Información para el commit 4
 Información para el commit 5
 
 Información para el commit 6
+
+Información para el commit 7
